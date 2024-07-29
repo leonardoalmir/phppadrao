@@ -10,5 +10,5 @@ echo $refrigerante;
 echo "<br><br>";
 $destino = "cidade";
 echo "$destino <br>";
-$cidade = "Belo Horizonte";
+$$destino = "Belo Horizonte";
 echo "$cidade";
